@@ -47,7 +47,6 @@ const App = () => {
       <div className='row center'>
         <h1 className='white-text'> BMI Tracker </h1>
       </div>
-      <div></div>
       <div className='row'>
         <div className='col m12 s12'>
           <BmiForm change={handleChange} />
